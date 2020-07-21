@@ -1,0 +1,13 @@
+
+1.Webpack (default import  / exports)
+  tasks:
+   # Babel
+   # Enter point
+   # Scss
+   # Eslint code cliner
+   # Modes
+       -Dev
+         Dev server , SourceMap, Eslint, Not Minified JS $ CSS
+       -Prod
+         Minified Code
+2.GIT
